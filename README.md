@@ -11,4 +11,4 @@ My second code challenge at Moringa School containing the different functions th
 Javascript
 
 ### License
-The content of this challenge is licensed under MIT license.
+The content of this challenge is licensed under the MIT license.
